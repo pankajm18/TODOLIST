@@ -1,0 +1,24 @@
+body {
+    background: url(tom-grimbert-1084105-unsplash.jpg);
+    background-size: cover;
+    background-position: center; 
+    font-family: 'Pacifico', cursive;
+}
+p{
+	width:400px;
+	font-size:18px;
+	margin-left:30%;
+
+}
+button{
+	margin-top:10px;
+	color:#334d4d;
+}
+img{
+	margin-top:20px;
+	margin-left:120px;
+}
+table{
+	margin-top:25px;
+	border:0 solid white;
+}
