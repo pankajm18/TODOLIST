@@ -1,5 +1,5 @@
 # To do list
-. I have used only HTML and CSS commands .
+I have used only HTML and CSS commands .
 This is a completely front end project.
 Bootstrap libraries are copied from getbootsrap.com.
-
+Javascript is not used in this project.
