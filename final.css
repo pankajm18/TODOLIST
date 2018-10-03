@@ -1,0 +1,50 @@
+body{
+	background:url(239.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+h3{
+	font-size: 45px;
+}
+h1{
+	font-size:25px;
+}
+#content{
+	text-align: center;
+	/*padding-top: 10%;*/
+}
+.container{
+	font-family: Crete Round;
+	align-self: center;
+	
+}
+p{
+	font-size: 25px;
+	float: left;
+	width:30%;
+}
+img{
+	width:250px;
+
+	}
+
+
+h1{
+	font-size:50px;
+}
+
+#first{
+	padding-top: 40%;
+
+}
+
+h3{
+
+	margin-left:450px;
+}
+
+button{
+	margin-left:550px;
+}
+
